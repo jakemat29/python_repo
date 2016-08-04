@@ -1,0 +1,3 @@
+hi all this is just 
+a sampl etext file to be used 
+for calling into the script ex11.py
