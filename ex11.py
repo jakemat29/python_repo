@@ -1,7 +1,7 @@
 from sys import argv
 script, filename = argv
 txt = open(filename)
-print "here is ur file name %r" %filename
+print "here is ur file name %s" %filename
 print txt.read() 
 print "*" * 100
 
